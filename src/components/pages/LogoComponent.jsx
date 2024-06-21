@@ -16,14 +16,9 @@ function HomePage() {
         </div>
 
         <div className="h-96 flex justify-center">
-          <h1 className="mt-6 rounded-xl text-white text-5xl ml-36 font-extrabold">
-            Welcome <span className="text-gray-500">To</span> NoteZone
+          <h1 className="mt-12 rounded-xl text-white text-5xl ml-36 font-extrabold">
+            Welcome <span className="text-gray-500">To</span> My Profile
           </h1>
-          <img
-            src={mives}
-            alt="book123"
-            className="ml-6 mt-24 h-36 w-36 rounded-full flex items-center animate-bounce"
-          />
         </div>
       </div>
     </div>
