@@ -28,10 +28,10 @@ const App = () => {
           </div>
 
           <Routes>
-            <Route path="/" excat element={<LogoComponent />} />
+            <Route path="/" excat element={<HomePage />} />
             <Route path="/signup" element={<SignupPage />} />
             <Route path="/about" element={<AboutPage />} />
-            <Route path="/home" element={<HomePage />} />
+            <Route path="/home" element={<LogoComponent />} />
           </Routes>
         </Router>
         <FooTer />

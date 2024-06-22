@@ -28,7 +28,7 @@ function Gap() {
 function Navbar() {
   return (
     <div className="">
-      <Link to="/home">
+      <Link to="/">
         <img
           src={mentors}
           alt="logo369"

@@ -1,5 +1,3 @@
-import mives from "../assets/mives.jpg";
-
 function HomePage() {
   return (
     <div className="h-72 w-44 mt-16">
