@@ -17,9 +17,9 @@ function Gap() {
 
   return (
     <div className="flex justify-end">
-      <div className="text-right font-mono text-purple-950 bg-gray-500 px-3 mr-6 rounded-full">
+      <div className="flex text-right font-mono text-purple-950 bg-gray-500 px-3 mr-6 rounded-full">
         <h1>Hi I'm a Fluint</h1>
-        <span className="text-white">{typeEffect}</span>
+        <h1 className="text-white">{typeEffect}</h1>
       </div>
     </div>
   );
