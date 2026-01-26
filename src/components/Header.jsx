@@ -15,6 +15,8 @@ function FormExample() {
         <svg className="animate-bounce w-6 h-6 bg-white rounded-full"></svg>
         <svg className="animate-bounce w-6 h-6 bg-black rounded-full"></svg>
       </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
     </div>
   );
 }
