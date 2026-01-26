@@ -22,6 +22,8 @@ function LogoComponent() {
               alt="emoji123"
               className="motion-reduce animate-pulse ml-2 mt-2 rounded-full h-16"
             ></img>
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
 
             <div className="text-center text-xs font-mono  hover:bg-red-400 p-3 rounded-t-xl border-b-2 border-black ease-in-out duration-1000">
               Nothing is impossible in this universe even the impossible word
