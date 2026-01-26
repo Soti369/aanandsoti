@@ -53,6 +53,8 @@ function Navbar() {
           {/* Add more navigation links as needed */}
         </div>
       </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
       <Gap />
     </div>
   );
