@@ -14,6 +14,8 @@ const Register = () => {
 
   return (
     <div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
       <div>
         <div className=" flex justify-center">
           <div className=" ml-9 h-96 bg-white py-5 px-5 rounded-t-2xl hover:bg-green-300 flex justify-center mt-36 ease-in-out duration-1000 drop-shadow-md shadow-white">
