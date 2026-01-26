@@ -35,6 +35,8 @@ const AboutPage = () => {
           </span>
           <h4>-------------------------------------------------------</h4>
           <img src={mentors} alt="mentors" className="h-40 w-full" />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
         </div>
       </div>
     </div>
