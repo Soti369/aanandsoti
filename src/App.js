@@ -34,6 +34,8 @@ const App = () => {
             <Route path="/home" element={<LogoComponent />} />
           </Routes>
         </Router>
+                  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071777415521672"
+     crossorigin="anonymous"></script>
         <FooTer />
       </div>
     </div>
